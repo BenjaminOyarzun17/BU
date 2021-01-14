@@ -1,4 +1,4 @@
-- Um die Programmen zu testen muss man Pytho 3 installiert haben und auch matplotlib, numpy, openpyxl und pandas installiert haben (durch pip install). 
+- Um die Programmen zu testen muss man Python 3 installiert haben und auch matplotlib, numpy, openpyxl und pandas installiert haben (durch pip install). 
 - Man muss alle Daten diesen Ordner herunterladen (.csv, .py und auch .xlsx), andererseits werden die Programmen nicht funktionieren. 
 - Programm 1 (PROG1.py): 
    - herstellt Grafiken:
