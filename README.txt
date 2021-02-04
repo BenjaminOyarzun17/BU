@@ -9,8 +9,6 @@
    - herstellt Grafiken: 
 	- Grafik mit den Reaktionsgeschwindigkeiten (durchschnittliche Angaben).
 
-- Programm 3 (PROG3.py): 
-   - herstellt Grafiken: 
-	- Grafik mit den Reaktionsgeschwindigkeiten (ausgewählte Angaben).
+
 	
 
